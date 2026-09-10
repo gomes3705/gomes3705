@@ -1,60 +1,29 @@
 # 👋 Olá, eu sou Gabriel Gomes!
 
-### 💻 Desenvolvedor | 🗄️ Banco de Dados | 📊 Dados | ⚙️ Automação
+### 🗄️ Database | 💻 Development | 📊 Data | ⚙️ Automation
 
 🎓 Estudante de **Sistemas de Informação**
-🏢 **Analista de Banco de Dados | SEED/SE**
+🏢 **Estagiário em Análise de Banco de Dados (DBA) | SEED/SE**
 📍 Aracaju, Sergipe 🇧🇷
-🚀 Sempre aprendendo, construindo e transformando problemas em soluções.
+🚀 Transformando problemas em soluções através de tecnologia e dados.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação** e gosto de atuar na interseção entre **desenvolvimento, dados, infraestrutura e automação**.
+Sou estudante de **Sistemas de Informação** e atualmente atuo como **Estagiário em Análise de Banco de Dados (DBA)**.
 
-Tenho experiência com **bancos de dados, desenvolvimento de APIs, suporte técnico, análise de dados e automação de processos**, buscando sempre criar soluções que sejam úteis, organizadas e escaláveis.
+Meu foco principal está em **bancos de dados, SQL, PostgreSQL, análise de dados, scripts, monitoramento e suporte a ambientes de banco de dados**.
 
-Atualmente estou aprofundando meus conhecimentos em **PostgreSQL, Linux, APIs, desenvolvimento backend, monitoramento e automação**.
+Também possuo experiência com **desenvolvimento de APIs, automação de processos, Power BI, infraestrutura e suporte técnico**, buscando integrar diferentes áreas da tecnologia para criar soluções eficientes.
 
----
-
-## 🚀 O que eu faço
-
-🗄️ **Banco de Dados**
-Desenvolvimento e manutenção de consultas, scripts e rotinas em SQL, com experiência em **PostgreSQL e MySQL**.
-
-💻 **Desenvolvimento**
-Construção de aplicações e APIs utilizando **Java, Python, FastAPI, C#, HTML, CSS e JavaScript**.
-
-📊 **Dados & BI**
-Criação de dashboards, análises e soluções utilizando **Power BI**.
-
-⚙️ **Automação**
-Automação de processos e tarefas utilizando ferramentas como **Power Automate e n8n**.
-
-🛠️ **Suporte & Infraestrutura**
-Experiência com **GLPI, Linux, monitoramento, redes, troubleshooting e suporte técnico**.
+🌱 Atualmente aprofundando meus conhecimentos em **PostgreSQL, Linux, administração de bancos de dados, monitoramento e desenvolvimento backend**.
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-## 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js" />
-</p>
-
-## ⚙️ Frameworks & Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
-
-`REST APIs` • `CRUD` • `Backend` • `Frontend`
-
-## 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -62,15 +31,31 @@ Experiência com **GLPI, Linux, monitoramento, redes, troubleshooting e suporte 
 
 `SQL` • `PostgreSQL` • `MySQL` • `DBeaver`
 
-## 📊 Dados & Automação
+---
+
+### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js" />
 </p>
 
-`Power BI` • `Power Automate` • `n8n` • `ETL` • `Dashboards`
+`FastAPI` • `REST APIs` • `CRUD` • `Backend` • `Frontend`
 
-## ⚙️ Infraestrutura & Ferramentas
+---
+
+### 📊 Dados & BI
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+`ETL` • `Dashboards` • `Data Analysis` • `Process Automation`
+
+---
+
+### ⚙️ Infraestrutura & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
@@ -80,22 +65,34 @@ Experiência com **GLPI, Linux, monitoramento, redes, troubleshooting e suporte 
 
 ---
 
-# 📌 Atualmente estudando
+## 🚀 Áreas de interesse
+
+🗄️ **Database Administration & SQL**
+📊 **Data Analysis & Business Intelligence**
+💻 **Backend & API Development**
+⚙️ **Process Automation**
+🐧 **Linux & Infrastructure**
+📡 **Monitoring & Observability**
+
+---
+
+## 📌 Atualmente estudando
 
 🌱 **PostgreSQL 17**
 🐧 **Linux / RHEL**
+🗄️ **Administração e otimização de bancos de dados**
 🔌 **APIs e Backend**
 🐳 **Docker**
-📡 **Monitoramento com Zabbix e Grafana**
+📡 **Zabbix & Grafana**
 ⚙️ **Automação de processos**
 
 ---
 
-# 🚧 Projetos & experiências
+## 🚧 Projetos & Experiências
 
 ### 📊 Gestão de Contratos e Medições
 
-Sistema desenvolvido para auxiliar no gerenciamento de contratos e medições.
+Sistema desenvolvido para auxiliar no gerenciamento de contratos e medições, envolvendo banco de dados, backend e frontend.
 
 **Tecnologias:**
 `MySQL` • `Backend` • `Frontend` • `Proxmox`
@@ -113,14 +110,14 @@ Desenvolvimento de automações para reduzir tarefas manuais e otimizar fluxos i
 
 ### 📈 Dashboards & Indicadores
 
-Criação de dashboards para acompanhamento e análise de informações.
+Desenvolvimento de dashboards para acompanhamento e análise de informações.
 
 **Tecnologias:**
 `Power BI` • `SQL` • `Excel`
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomes3705&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -129,7 +126,7 @@ Criação de dashboards para acompanhamento e análise de informações.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gomes3705&theme=tokyonight" />
@@ -137,7 +134,7 @@ Criação de dashboards para acompanhamento e análise de informações.
 
 ---
 
-# 📈 Atividade
+## 📈 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomes3705&theme=tokyo-night" />
@@ -145,7 +142,7 @@ Criação de dashboards para acompanhamento e análise de informações.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gomes3705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -153,7 +150,7 @@ Criação de dashboards para acompanhamento e análise de informações.
 
 ---
 
-# 🌎 Idiomas
+## 🌎 Idiomas
 
 🇧🇷 **Português** • Nativo
 🇺🇸 **Inglês** • Avançado
@@ -161,7 +158,7 @@ Criação de dashboards para acompanhamento e análise de informações.
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 <p align="center">
   <a href="https://linkedin.com/in/gabrielgomesti12">
