@@ -1,11 +1,16 @@
-# 👋 Olá, eu sou Gabriel Gomes!
+<h1 align="center">👋 Olá, eu sou Gabriel Gomes!</h1>
 
-### 🗄️ Database | 💻 Development | 📊 Data | ⚙️ Automation
+<h3 align="center">
+🗄️ Database • 💻 Development • 📊 Data • ⚙️ Automation
+</h3>
 
-🎓 Estudante de **Sistemas de Informação**
-🏢 **Estagiário em Análise de Banco de Dados (DBA) | SEED/SE**
-📍 Aracaju, Sergipe 🇧🇷
-🚀 Transformando problemas em soluções através de tecnologia e dados.
+<p align="center">
+  🎓 Estudante de Sistemas de Informação
+  <br>
+  🏢 Estagiário em Análise de Banco de Dados (DBA) | SEED/SE
+  <br>
+  📍 Aracaju, Sergipe 🇧🇷
+</p>
 
 ---
 
@@ -13,9 +18,9 @@
 
 Sou estudante de **Sistemas de Informação** e atualmente atuo como **Estagiário em Análise de Banco de Dados (DBA)**.
 
-Meu foco principal está em **bancos de dados, SQL, PostgreSQL, análise de dados, scripts, monitoramento e suporte a ambientes de banco de dados**.
+Meu foco principal está em **bancos de dados, SQL, PostgreSQL, análise de dados, desenvolvimento de scripts, monitoramento e suporte a ambientes de banco de dados**.
 
-Também possuo experiência com **desenvolvimento de APIs, automação de processos, Power BI, infraestrutura e suporte técnico**, buscando integrar diferentes áreas da tecnologia para criar soluções eficientes.
+Também tenho experiência com **desenvolvimento de APIs, automação de processos, Power BI, infraestrutura e suporte técnico**, buscando conectar diferentes áreas da tecnologia para criar soluções eficientes.
 
 🌱 Atualmente aprofundando meus conhecimentos em **PostgreSQL, Linux, administração de bancos de dados, monitoramento e desenvolvimento backend**.
 
@@ -43,7 +48,7 @@ Também possuo experiência com **desenvolvimento de APIs, automação de proces
 
 ---
 
-### 📊 Dados & BI
+### 📊 Dados & Automação
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -67,23 +72,36 @@ Também possuo experiência com **desenvolvimento de APIs, automação de proces
 
 ## 🚀 Áreas de interesse
 
-🗄️ **Database Administration & SQL**
-📊 **Data Analysis & Business Intelligence**
-💻 **Backend & API Development**
-⚙️ **Process Automation**
-🐧 **Linux & Infrastructure**
-📡 **Monitoring & Observability**
+| 🗄️ Database | 💻 Development |
+|---|---|
+| SQL & PostgreSQL | Java & Python |
+| Administração de BD | APIs & Backend |
+| Scripts | CRUD |
+| Monitoramento | Desenvolvimento Web |
+
+| 📊 Data | ⚙️ Infrastructure |
+|---|---|
+| Power BI | Linux |
+| Data Analysis | Docker |
+| ETL | Zabbix |
+| Automação | Grafana |
 
 ---
 
 ## 📌 Atualmente estudando
 
 🌱 **PostgreSQL 17**
+
 🐧 **Linux / RHEL**
+
 🗄️ **Administração e otimização de bancos de dados**
+
 🔌 **APIs e Backend**
+
 🐳 **Docker**
+
 📡 **Zabbix & Grafana**
+
 ⚙️ **Automação de processos**
 
 ---
@@ -92,9 +110,9 @@ Também possuo experiência com **desenvolvimento de APIs, automação de proces
 
 ### 📊 Gestão de Contratos e Medições
 
-Sistema desenvolvido para auxiliar no gerenciamento de contratos e medições, envolvendo banco de dados, backend e frontend.
+Sistema desenvolvido para auxiliar no gerenciamento de contratos e medições, envolvendo **banco de dados, backend e frontend**.
 
-**Tecnologias:**
+**Tecnologias:**  
 `MySQL` • `Backend` • `Frontend` • `Proxmox`
 
 ---
@@ -103,33 +121,24 @@ Sistema desenvolvido para auxiliar no gerenciamento de contratos e medições, e
 
 Desenvolvimento de automações para reduzir tarefas manuais e otimizar fluxos internos.
 
-**Tecnologias:**
+**Tecnologias:**  
 `Power Automate` • `SharePoint` • `Power BI`
 
 ---
 
 ### 📈 Dashboards & Indicadores
 
-Desenvolvimento de dashboards para acompanhamento e análise de informações.
+Desenvolvimento de dashboards para acompanhamento, visualização e análise de informações.
 
-**Tecnologias:**
+**Tecnologias:**  
 `Power BI` • `SQL` • `Excel`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomes3705&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes3705&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gomes3705&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gomes3705&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -137,23 +146,15 @@ Desenvolvimento de dashboards para acompanhamento e análise de informações.
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomes3705&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gomes3705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomes3705&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌎 Idiomas
 
-🇧🇷 **Português** • Nativo
-🇺🇸 **Inglês** • Avançado
+🇧🇷 **Português** • Nativo  
+🇺🇸 **Inglês** • Avançado  
 🇪🇸 **Espanhol** • Avançado
 
 ---
@@ -161,20 +162,24 @@ Desenvolvimento de dashboards para acompanhamento e análise de informações.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/gabrielgomesti12">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eugabrielgomes09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/gomes3705">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://linkedin.com/in/gabrielgomesti12">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:eugabrielgomes09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/gomes3705">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 🧠 Filosofia
+## 🧠
 
 ```text
 while (alive) {
@@ -182,6 +187,3 @@ while (alive) {
     build();
     improve();
 }
-```
-
-### 🚀 Code. Learn. Build. Repeat.
